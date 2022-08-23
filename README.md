@@ -4,7 +4,7 @@ Created database applications. It allows you to add, modify, delete and search f
 To do this, you must enter a password, which can be changed if necessary. 
 This password is stored in the database.
 
-##Features
+## Features
 
 - ✔️ Login.
 - 🔧 edit database.
