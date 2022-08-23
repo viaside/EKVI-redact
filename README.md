@@ -7,5 +7,5 @@ This password is stored in the database.
 ## Features
 
 - ✔️ Login.
-- 🔧 edit database.
+- 🔧 Edit database.
 - 🛂 Change password.
